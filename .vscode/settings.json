@@ -1,0 +1,49 @@
+{
+    "chat.mcp.serverSampling": {
+        "oneshot_tonnetz/.vscode/mcp.json: my-mcp-server-802da39d": {
+            "allowedModels": [
+                "github.copilot-chat/gpt-4.1",
+                "github.copilot-chat/claude-3.5-sonnet",
+                "github.copilot-chat/claude-3.7-sonnet",
+                "github.copilot-chat/claude-3.7-sonnet-thought",
+                "github.copilot-chat/claude-sonnet-4",
+                "github.copilot-chat/gemini-2.0-flash-001",
+                "github.copilot-chat/gemini-2.5-pro",
+                "github.copilot-chat/gpt-4o",
+                "github.copilot-chat/o3-mini",
+                "github.copilot-chat/o4-mini",
+                "github.copilot-chat/gpt-5"
+            ]
+        },
+        "oneshot_tonnetz/.vscode/mcp.json: memory": {
+            "allowedModels": [
+                "github.copilot-chat/gpt-4.1",
+                "github.copilot-chat/claude-3.5-sonnet",
+                "github.copilot-chat/claude-3.7-sonnet",
+                "github.copilot-chat/claude-3.7-sonnet-thought",
+                "github.copilot-chat/claude-sonnet-4",
+                "github.copilot-chat/gemini-2.0-flash-001",
+                "github.copilot-chat/gemini-2.5-pro",
+                "github.copilot-chat/gpt-4o",
+                "github.copilot-chat/o3-mini",
+                "github.copilot-chat/o4-mini",
+                "github.copilot-chat/gpt-5"
+            ]
+        },
+        "oneshot_tonnetz/.vscode/mcp.json: sequential-thinking": {
+            "allowedModels": [
+                "github.copilot-chat/gpt-4.1",
+                "github.copilot-chat/claude-3.5-sonnet",
+                "github.copilot-chat/claude-3.7-sonnet",
+                "github.copilot-chat/claude-3.7-sonnet-thought",
+                "github.copilot-chat/claude-sonnet-4",
+                "github.copilot-chat/gemini-2.0-flash-001",
+                "github.copilot-chat/gemini-2.5-pro",
+                "github.copilot-chat/gpt-4o",
+                "github.copilot-chat/o3-mini",
+                "github.copilot-chat/o4-mini",
+                "github.copilot-chat/gpt-5"
+            ]
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+  "inputs": [
+    {
+      "type": "promptString"
+    }
+  ],
+  "servers": {
+    "my-mcp-server-802da39d": {
+      "url": "https://api.githubcopilot.com/mcp/",
+      "type": "http"
+    },
+    "memory": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-memory@latest"
+      ],
+      "env": {
+        "MEMORY_FILE_PATH": "/Users/mainfolder/oneshot_tonnetz/.vscode/memory.jsonl"
+      }
+    },
+    "sequential-thinking": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-sequential-thinking"
+      ]
+    }
+  }
+}
