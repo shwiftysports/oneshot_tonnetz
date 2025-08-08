@@ -1,6 +1,6 @@
 {
     "chat.mcp.serverSampling": {
-        "oneshot_tonnetz/.vscode/mcp.json: my-mcp-server-802da39d": {
+        "oneshot_tonnetz/.vscode/mcp.json: your-mcp-server-id": {
             "allowedModels": [
                 "github.copilot-chat/gpt-4.1",
                 "github.copilot-chat/claude-3.5-sonnet",
